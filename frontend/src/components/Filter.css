@@ -1,0 +1,20 @@
+.filter{
+    display: flex;
+    flex-direction: row; /* Sắp xếp theo chiều dọc */
+    align-items: center; /* Căn giữa theo chiều ngang */
+    justify-content: space-around; /* Căn giữa theo chiều dọc */
+    width: 60%;
+    margin: 0 auto;
+}
+
+.find-field{
+    width: 60%;
+}
+
+.filter-giong{
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
